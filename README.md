@@ -1,56 +1,77 @@
-## Neja Gemisen
+<div align="center">
 
-Musician, researcher, and builder. Two roots, one delta.
+# Neja Gemisen
 
----
+*Musician · Researcher · Builder — two roots, one delta.*
 
-### MOLL∆
+Copenhagen · Denmark
 
-Three voices, one root. Neja, Lina, and Line — unequal twins telling a never-ending story through songs and the words underneath them. Copenhagen, est. 2025.
-
-What sets MOLL∆ apart from AI-generated music: a continuous narrative carried through lyrics and community across three characters forming the corners of the delta. Not songs in isolation — a story you sit with.
-
-- [molle.me](https://molle.me) — Catalogue, lyrics, and voices
-- 34 tracks and growing
-- WhatsApp channel for transmissions when a piece is ready
+</div>
 
 ---
 
-### Research and Knowledge
+<div align="center">
 
-Working at the intersection of AI governance, compliance, and healthcare technology.
+**[molle.me](https://molle.me)** · Music &nbsp;·&nbsp; **[molle.icu](https://molle.icu)** · Research &nbsp;·&nbsp; **[molle-me](https://github.com/molle-me)** · Organization
 
-**Focus areas:**
-- AI Act and regulatory frameworks
-- eHealth and medical device regulation (MDR)
-- Cybersecurity and threat modeling
-- Biometric fingerprinting and privacy
-- AI governance in public sector and government
-- Compliance frameworks and risk assessment
-
-- [molle.icu](https://molle.icu) — Knowledge hub: sociology, AI, EU policy, psychology, psychiatry, neurology, technology
+</div>
 
 ---
 
-### Projects
+## MOLL∆
 
-- **[Shallomolle](https://github.com/gemineja/Shallomolle)** — Mesh communication app for community connectivity
-- **[Molle IPTV](https://github.com/gemineja/molle-iptv)** — Automated IPTV playlist aggregator with GitHub Actions
-- **[Molle](https://github.com/gemineja/molle)** — Web development
+> *Three voices, one root.*
 
-### Organization
+Neja, Lina, and Line — unequal twins from a common root, telling a never-ending story through songs and the words underneath them. Not AI music in the usual sense. A narrative carried through lyrics, characters, and community across the corners of the delta. A story meant to be sat with, not solved.
 
-- [github.com/molle-me](https://github.com/molle-me) — Collaborative work and research
+Copenhagen, est. 2025. Thirty-four tracks and counting. Occasional transmissions when a piece is ready — no noise, no schedule worth predicting.
 
----
-
-### Background
-
-Professional musician. IT education. MOOResearch Institute. Open source advocate. Based in Denmark.
+**[molle.me](https://molle.me)** — catalogue, lyrics, and voices.
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-gemineja-blue?logo=github)](https://github.com/gemineja)
-[![Email](https://img.shields.io/badge/Email-molle@molle.me-red?logo=gmail)](mailto:molle@molle.me)
-[![Web](https://img.shields.io/badge/Music-molle.me-green?logo=soundcloud)](https://molle.me)
-[![Research](https://img.shields.io/badge/Research-molle.icu-purple)](https://molle.icu)
+## Research
+
+Working at the intersection of AI governance, regulation, and healthcare technology. Current focus spans:
+
+`AI Act` · `eHealth` · `MDR` · `Cybersecurity` · `Biometric Fingerprinting` · `Compliance Frameworks` · `AI in Government`
+
+Affiliated with **MOOResearch Institute**. Open source advocate.
+
+**[molle.icu](https://molle.icu)** — knowledge hub across sociology, AI, EU policy, psychology, psychiatry, neurology, and technology.
+
+---
+
+## Projects
+
+| | |
+|:---|:---|
+| **[Shallomolle](https://github.com/gemineja/Shallomolle)** | Mesh communication app for community connectivity |
+| **[Molle IPTV](https://github.com/gemineja/molle-iptv)** | Automated IPTV aggregator — GitHub Actions pipeline fetching and merging public playlists every 12 hours |
+| **[Molle](https://github.com/gemineja/molle)** | Web development workspace |
+
+---
+
+<div align="center">
+
+### Building things that solve problems or spread joy.
+
+*If any of this is useful to you, consider supporting the work.*
+
+**[Sponsor on GitHub](https://github.com/sponsors/gemineja)**
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/gemineja"><img src="https://img.shields.io/badge/GitHub-gemineja-181717?logo=github" alt="GitHub"></a>
+&nbsp;
+<a href="mailto:molle@molle.me"><img src="https://img.shields.io/badge/Email-molle@molle.me-EA4335?logo=gmail" alt="Email"></a>
+&nbsp;
+<a href="https://molle.me"><img src="https://img.shields.io/badge/Music-molle.me-1DB954?logo=soundcloud" alt="Music"></a>
+&nbsp;
+<a href="https://molle.icu"><img src="https://img.shields.io/badge/Research-molle.icu-8B5CF6" alt="Research"></a>
+
+</div>
