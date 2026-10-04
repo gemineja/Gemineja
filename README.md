@@ -2,7 +2,7 @@
 
 # Neja Gemisen
 
-*Musician · Researcher · Builder — two roots, one delta.*
+*Musician · Researcher · inventor.*
 
 Copenhagen · Denmark
 
@@ -20,11 +20,11 @@ Copenhagen · Denmark
 
 ## MOLL∆
 
-> *Three voices, one root.*
+> *Three voices.*
 
-Neja, Lina, and Line — unequal twins from a common root, telling a never-ending story through songs and the words underneath them. Not AI music in the usual sense. A narrative carried through lyrics, characters, and community across the corners of the delta. A story meant to be sat with, not solved.
+Neja, Lina, and Line — unequal twins from a common root, telling a never-ending story through songs and the words underneath them. Not AI music in the usual sense. A narrative carried through lyrics, their characters, and their interactions and bi-polare across the corners of the delta. A story meant to be sat with, not solved.
 
-Copenhagen, est. 2025. Thirty-four tracks and counting. Occasional transmissions when a piece is ready — no noise, no schedule worth predicting.
+Copenhagen, est. 2025. xxx tracks and counting. Occasional transmissions when a piece is ready — , no schedule worth predicting.
 
 **[molle.me](https://molle.me)** — catalogue, lyrics, and voices.
 
